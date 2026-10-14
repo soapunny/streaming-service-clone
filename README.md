@@ -1,4 +1,4 @@
-# Streaming Service Copy
+# Streaming Service Clone
 
 **English** | [한국어](#한국어)
 
@@ -186,9 +186,9 @@ process.on("SIGTERM", () => {
 
 <a id="한국어"></a>
 
-# Streaming Service Copy (한국어)
+# Streaming Service Clone (한국어)
 
-[English](#streaming-service-copy) | **한국어**
+[English](#streaming-service-clone) | **한국어**
 
 TMDB API를 이용한 스트리밍 서비스 클론 프로젝트입니다.
 지금은 **Express 서버의 기본 골격**까지 만들었고, 이 README는 코드를 한 줄씩 다시 보면서 **복습한 내용을 정리한 노트**입니다.
